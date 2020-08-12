@@ -1,2 +1,2 @@
-# pointnet
+# PointNet
 PointNet experimentation.
