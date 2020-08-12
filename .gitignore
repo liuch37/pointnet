@@ -1,0 +1,8 @@
+.ipynb_checkpoints/
+*.pyc
+*.ipynb
+shapenetcore_partanno_segmentation_benchmark_v0/
+*.so
+.idea*
+cls/
+seg/
