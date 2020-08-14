@@ -1,6 +1,6 @@
 # PointNet
 
-PointNet experimentation using PyTorch 1.6.0. Most of the code is taken from [1]. Purpose of this project is to get familiar with architecture of pointnet for classification and segmentation. Add multi-gpu support and fix some minor issues in [1]. Current version only supports shapenet, for modelnet40 dataaset need additional handling for __getitem__.
+PointNet experimentation using PyTorch 1.6.0. Most of the code is taken from [1]. Purpose of this project is to get familiar with architecture of pointnet for classification and segmentation. Add multi-gpu support and fix some minor issues in [1]. Current version only supports shapenet, for modelnet40 dataaset needs additional handling for __getitem__.
 
 ## Usage
 
